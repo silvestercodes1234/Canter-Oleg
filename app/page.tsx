@@ -1,5 +1,5 @@
 ﻿import Image from "next/image";
-import { Phone, MapPin, Clock, Shield, ArrowRight } from "lucide-react";
+import { Phone, Shield, ArrowRight } from "lucide-react";
 import ContactForm from "@/components/ContactForm";
 
 const PHONE = "+37360021878";
